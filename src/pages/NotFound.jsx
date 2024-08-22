@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom';
-import erroImg from '/Error404.webp';
+import erroImg from '/src/assets/Error404.webp';
 import { useEffect } from 'react';
 
 const NotFound = () => {
