@@ -7,7 +7,7 @@ import Login from './pages/Login'
 import BookPage from './pages/BookPage'
 import RegisterBook from './pages/RegisterBook'
 import ProtectedRoute from './pages/ProtectedRoute'
-import NotFound from './pages/NotFound'
+import NotFound from '/404.jsx'
 
 const routes = () => {
 
